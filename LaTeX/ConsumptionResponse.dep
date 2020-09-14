@@ -146,9 +146,8 @@
   *{file}   {uwasy.fd}    {2020/01/19 v2.4}
   *{file}   {t1lmtt.fd}   {2009/10/30 v1.6}
   *{file}   {t1lmss.fd}   {2009/10/30 v1.6}
-  *{file}   {ts1lmr.fd}   {2009/10/30 v1.6}
-  *{file}   {ConsumptionResponse.bbl}{0000/00/00 v0.0}
   *{file}   {./Figures/UnempProbByDemogBasic.pdf}{0000/00/00 v0.0}
+  *{file}   {ts1lmr.fd}   {2009/10/30 v1.6}
   *{file}   {./Figures/AggLT.pdf}{0000/00/00 v0.0}
   *{file}   {./Figures/AggConResp_examples.pdf}{0000/00/00 v0.0}
   *{file}   {./Figures/Decomposition.pdf}{0000/00/00 v0.0}
@@ -159,6 +158,7 @@
   *{file}   {./Figures/EffectTargeting.pdf}{0000/00/00 v0.0}
   *{file}   {./Figures/AggLT_long_pandemic.pdf}{0000/00/00 v0.0}
   *{file}   {./Figures/DeepPandemic.pdf}{0000/00/00 v0.0}
+  *{file}   {ConsumptionResponse.bbl}{0000/00/00 v0.0}
   *{file}   {ModelAppendix.tex}{0000/00/00 v0.0}
   *{file}   {LaTeX/econtexRoot.tex}{0000/00/00 v0.0}
   *{file}   {./LaTeX/onlyinsubfile.tex}{0000/00/00 v0.0}
